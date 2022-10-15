@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://count.getloli.com/get/@:Xda?theme=moebooru
+![a](https://count.getloli.com/get/@:Xda?theme=moebooru)
 
 <!--
 **Nishant9947/Nishant9947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
